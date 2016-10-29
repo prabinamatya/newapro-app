@@ -3306,7 +3306,7 @@ var Footer = function (_get__$Component) {
         _react2.default.createElement(
           'p',
           null,
-          '\xA9 2016 Company, Inc. All Rights Reserved.'
+          '\xA9 2016 Prabin. All Rights Reserved.'
         )
       );
     }
